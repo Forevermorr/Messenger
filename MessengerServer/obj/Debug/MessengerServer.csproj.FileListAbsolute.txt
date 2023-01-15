@@ -1,0 +1,16 @@
+C:\Users\forev\source\repos\Messenger\MessengerServer\bin\Debug\MessengerServer.exe.config
+C:\Users\forev\source\repos\Messenger\MessengerServer\bin\Debug\MessengerServer.exe
+C:\Users\forev\source\repos\Messenger\MessengerServer\bin\Debug\MessengerServer.pdb
+C:\Users\forev\source\repos\Messenger\MessengerServer\obj\Debug\MessengerServer.csproj.AssemblyReference.cache
+C:\Users\forev\source\repos\Messenger\MessengerServer\obj\Debug\MessengerServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\forev\source\repos\Messenger\MessengerServer\obj\Debug\MessengerServer.csproj.CoreCompileInputs.cache
+C:\Users\forev\source\repos\Messenger\MessengerServer\obj\Debug\MessengerServer.exe
+C:\Users\forev\source\repos\Messenger\MessengerServer\obj\Debug\MessengerServer.pdb
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerServer\bin\Debug\MessengerServer.exe.config
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerServer\bin\Debug\MessengerServer.exe
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerServer\bin\Debug\MessengerServer.pdb
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerServer\obj\Debug\MessengerServer.csproj.AssemblyReference.cache
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerServer\obj\Debug\MessengerServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerServer\obj\Debug\MessengerServer.csproj.CoreCompileInputs.cache
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerServer\obj\Debug\MessengerServer.exe
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerServer\obj\Debug\MessengerServer.pdb

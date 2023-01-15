@@ -1,0 +1,32 @@
+C:\Users\forev\source\repos\Messenger\MessengerClient\bin\Debug\MessengerClient.exe.config
+C:\Users\forev\source\repos\Messenger\MessengerClient\bin\Debug\MessengerClient.exe
+C:\Users\forev\source\repos\Messenger\MessengerClient\bin\Debug\MessengerClient.pdb
+C:\Users\forev\source\repos\Messenger\MessengerClient\obj\Debug\MessengerClient.csproj.AssemblyReference.cache
+C:\Users\forev\source\repos\Messenger\MessengerClient\obj\Debug\MessengerClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\forev\source\repos\Messenger\MessengerClient\obj\Debug\MainWindow.g.cs
+C:\Users\forev\source\repos\Messenger\MessengerClient\obj\Debug\App.g.cs
+C:\Users\forev\source\repos\Messenger\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.cache
+C:\Users\forev\source\repos\Messenger\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.lref
+C:\Users\forev\source\repos\Messenger\MessengerClient\obj\Debug\MainWindow.baml
+C:\Users\forev\source\repos\Messenger\MessengerClient\obj\Debug\MessengerClient.g.resources
+C:\Users\forev\source\repos\Messenger\MessengerClient\obj\Debug\MessengerClient.Properties.Resources.resources
+C:\Users\forev\source\repos\Messenger\MessengerClient\obj\Debug\MessengerClient.csproj.GenerateResource.cache
+C:\Users\forev\source\repos\Messenger\MessengerClient\obj\Debug\MessengerClient.csproj.CoreCompileInputs.cache
+C:\Users\forev\source\repos\Messenger\MessengerClient\obj\Debug\MessengerClient.exe
+C:\Users\forev\source\repos\Messenger\MessengerClient\obj\Debug\MessengerClient.pdb
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerClient\bin\Debug\MessengerClient.exe.config
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerClient\bin\Debug\MessengerClient.exe
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerClient\bin\Debug\MessengerClient.pdb
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerClient\obj\Debug\MessengerClient.csproj.AssemblyReference.cache
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerClient\obj\Debug\MessengerClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerClient\obj\Debug\MainWindow.g.cs
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerClient\obj\Debug\App.g.cs
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.cache
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.lref
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerClient\obj\Debug\MainWindow.baml
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerClient\obj\Debug\MessengerClient.g.resources
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerClient\obj\Debug\MessengerClient.Properties.Resources.resources
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerClient\obj\Debug\MessengerClient.csproj.GenerateResource.cache
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerClient\obj\Debug\MessengerClient.csproj.CoreCompileInputs.cache
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerClient\obj\Debug\MessengerClient.exe
+C:\Users\forev\OneDrive\Рабочий стол\Messenger-main\MessengerClient\obj\Debug\MessengerClient.pdb

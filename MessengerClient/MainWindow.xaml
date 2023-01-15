@@ -1,0 +1,17 @@
+﻿<Window x:Class="MessengerClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MessengerClient"
+        mc:Ignorable="d"
+        x:Name="Messenger" Title="Messenger" Height="450" Width="800" Background="#FF383333" ResizeMode="CanMinimize" BorderBrush="#FF383333" OpacityMask="#FF383333" Foreground="#FF383333" Icon="/messenger.png">
+    <Grid Height="435">
+        <Button x:Name="btnenterChat" Content="Войти в чат" HorizontalAlignment="Left" Margin="276,11,0,0" VerticalAlignment="Top" Height="24" Width="86" Click="enterChat_Click" Grid.ColumnSpan="2"/>
+        <Label x:Name="gui_userName" Content="Введите ваше имя:" HorizontalAlignment="Left" Margin="10,9,0,0" VerticalAlignment="Top" Height="26" Width="113" Foreground="White"/>
+        <TextBox x:Name="tbuserName" HorizontalAlignment="Left" Margin="124,11,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="137" Height="25"/>
+        <TextBox x:Name="tbchatBox" HorizontalAlignment="Left" Margin="7,52,0,93" Width="770" TextWrapping="Wrap" IsReadOnly="True" AcceptsReturn="True" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto" KeyDown="chatBox_KeyDown" IsEnabled="False" Grid.ColumnSpan="2" Background="#FF5D5959" Foreground="White"/>
+        <TextBox x:Name="tbchatMsg" HorizontalAlignment="Left" Margin="7,350,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="624" Height="55" KeyDown="tbchatMsg_KeyDown" IsEnabled="False" Grid.ColumnSpan="2" Background="#FF5D5959" Foreground="White"/>
+        <Button x:Name="btnchatSend" Content="Отправить" HorizontalAlignment="Left" Margin="659,360,0,0" VerticalAlignment="Top" Height="35" Width="100" IsEnabled="False" Click="btnchatSend_Click"/>
+    </Grid>
+</Window>

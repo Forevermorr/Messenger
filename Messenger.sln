@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessengerClient", "MessengerClient\MessengerClient.csproj", "{98822C59-2531-4DAD-905D-0AF55B1C8A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessengerServer", "MessengerServer\MessengerServer.csproj", "{DAD6A3D5-858E-409A-9E33-28F660C7407B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98822C59-2531-4DAD-905D-0AF55B1C8A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98822C59-2531-4DAD-905D-0AF55B1C8A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98822C59-2531-4DAD-905D-0AF55B1C8A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98822C59-2531-4DAD-905D-0AF55B1C8A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD6A3D5-858E-409A-9E33-28F660C7407B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD6A3D5-858E-409A-9E33-28F660C7407B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD6A3D5-858E-409A-9E33-28F660C7407B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD6A3D5-858E-409A-9E33-28F660C7407B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E4A21A5-96D9-4342-97D3-41E82471BAA4}
+	EndGlobalSection
+EndGlobal

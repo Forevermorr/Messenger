@@ -14,6 +14,8 @@ namespace Messenger
     {
         private readonly static List<string> Commands = new List<string>() { "/help", "/getusers", "/killserver" };
         private readonly static string _serverHost = "localhost";
+        // для теста в локальной сети
+        // private readonly static string _serverHost = "192.168.1.1";
         private readonly static int _serverPort = 9933;
         private static Thread _serverThread;
 
@@ -46,9 +48,15 @@ namespace Messenger
             if (cmd.Contains("/getusers"))
             {
                 int countUsers = Server.Clients.Count;
-                for (int i = 0; i < countUsers; i++)
+
+                if (countUsers == 0)
+                    Console.WriteLine("No one is in the chat");
+                else
                 {
-                    Console.WriteLine("[{0}]: {1}", i, Server.Clients[i].UserName);
+                    for (int i = 0; i < countUsers; i++)
+                    {
+                        Console.WriteLine("{0}. {1}", i + 1, Server.Clients[i].UserName);
+                    }
                 }
             }
 

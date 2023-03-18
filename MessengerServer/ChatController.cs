@@ -9,7 +9,7 @@ namespace Messenger
 {
     public static class ChatController
     {
-        private const int _maxMessage = 100;
+        private const int _maxMessage = 500;
         public static List<Message> Chat = new List<Message>();
 
         public static void AddMessage(string userName, string msg)

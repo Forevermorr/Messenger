@@ -28,6 +28,8 @@ namespace MessengerClient
         private Socket _serverSocket;
         private readonly Thread _clientThread;
         private readonly static string _serverHost = "localhost";
+        // для теста в локальной сети
+        // private readonly static string _serverHost = "192.168.1.2";
         private readonly static int _serverPort = 9933;
 
         public MainWindow()
@@ -69,7 +71,7 @@ namespace MessengerClient
                 _serverSocket.Connect(ipEndPoint);
             } catch
             {
-                Print("Сервер недоступен!");
+                Print("Сервер в данный момент недоступен!");
             }
         }
 
